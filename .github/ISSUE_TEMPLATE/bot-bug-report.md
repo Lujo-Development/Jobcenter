@@ -1,24 +1,27 @@
 ---
 name: Bot bug report
-about: Create a report to help us improve our Bot
+about: Erstellen Sie einen Bericht, um uns bei der Verbesserung unseres Bots zu helfen
 title: "[B-BUG]"
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Beschreibe den Bug**
+Eine klare und prägnante Beschreibung des Bugs.
 
-**To Reproduce**
-Which command had you used:
+**Zum nachbilden**
+Welchen Befehl hast du verwendet:
 `,say test`
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Erwartetes Verhalten**
+Eine klare und prägnante Beschreibung dessen, was Sie erwartet haben.
+
+**Was passiert ist**
+Eine klare und prägnante Beschreibung dessen, was im endeffekt stattdessen passiert ist.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Fügen Sie gegebenenfalls Screenshots hinzu, um Ihr Problem zu erläutern.
 
-**Additional context**
-Add any other context about the problem here.
+**Zusätzlicher Kontext**
+Fügen Sie hier einen beliebigen anderen Kontext zum Problem hinzu.
