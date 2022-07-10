@@ -31,7 +31,6 @@ from discord_slash.utils.manage_commands import create_option, create_choice
 
 wartungsarbeiten = False
 
-TOKEN = 'Der Token steht normalerweise hier'
 client = commands.Bot(command_prefix = commands.when_mentioned_or(','), help_command=None, case_insensitive=True, intents=Intents.all())
 slash = SlashCommand(client, sync_commands=True)
 
