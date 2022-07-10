@@ -1,4 +1,4 @@
-from time import strftime
+hallo
 import discord
 import asyncio
 import functools
