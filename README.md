@@ -1,6 +1,6 @@
 # Jobcenter
 Dies ist der Git des Jobcenter Discord Servers.
-Hier findest du alles was Coding angeht und für die öffentlichkeit zugänglich ist.
+Hier findest du alles was Coding angeht und aktuelle bearbeitungen.
 
 ### Bot Code
 Aktuell gibt es keinen öffentlichen Code zu dem privaten Jobcenter Bot.
