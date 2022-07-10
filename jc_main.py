@@ -36,8 +36,6 @@ client = commands.Bot(command_prefix = commands.when_mentioned_or(','), help_com
 slash = SlashCommand(client, sync_commands=True)
 
 
-guild_ids = [776912251944435723]
-
 
 @client.event
 async def on_ready():
